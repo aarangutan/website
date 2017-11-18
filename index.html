@@ -1,27 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="en_US">
   <head>
-    <title>Aaron MacDonald &ndash; artist, photographer, programmer</title>
+    <title>Aaron MacDonald makes art and writes code.</title>
     <meta name="robots" content="index, follow" />
-    <meta name="keywords" content="artist, art, photography, programmer, javascript, reactjs, aaron macdonald" />
+    <style>
+      body {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+      img:hover {
+        filter: invert(100%);
+      }
+
+      footer ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      footer ul li {
+        display: inline;
+        list-style-type: none;
+      }
+
+      footer ul li:not(:first-child):before {
+        content: " / ";
+      }
+    </style>
   </head>
   <body>
     <header role="banner">
       <h1>Aaron MacDonald</h1>
-      <nav role="navigation">
-          <a href="https://docs.google.com/document/d/1r214ygLWPJNNqoBd_CRbgjlieZ7L7rSTt1UDu1ghkks/edit?usp=sharing" target="_blank">Cv</a>
-      </nav>
     </header>
     <main role="main">
-      <figure class="gallery">
-        <img alt="Photograph by Aaron MacDonald" src="Aaron-MacDonald-photo.jpg">
-      </figure>
+      <img alt="Photograph by Aaron MacDonald" src="Aaron-MacDonald-photo.jpg">
     </main>
     <footer role="contentinfo">
-      <p><a href="https://twitter.com/aaronbmacdonald" target="_blank">@aaronbmacdonald</a></p>
+      <p>Copyright &copy; 2017 Aaron MacDonald</p>
+      <ul>
+        <li><a href="https://twitter.com/aarangutan">Twitter</a></li>
+        <li><a href="https://github.com/aarangutan">GitHub</a></li>
+      </ul>
     </footer>
     <script>
-      // Google Analytics
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
