@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/aaronmacdonald
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aaronmacdonald.net
+  * I am aaronmacdonald (https://keybase.io/aaronmacdonald) on keybase.
+  * I have a public key ASDJrOVir1WkJ1TdE6YDMl8ShhtnaFSFntRmqGrwDHf-iQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016ddab30eab8d59e1ce6c4c416f9902fa83ff309c7d053e36630812a3f0d0c1320a",
+      "host": "keybase.io",
+      "kid": "0120c9ace562af55a42754dd13a603325f12861b676854859ed466a86af00c77fe890a",
+      "uid": "5351472e468edac07972076024699c19",
+      "username": "aaronmacdonald"
+    },
+    "service": {
+      "hostname": "aaronmacdonald.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.23"
+  },
+  "ctime": 1512864828,
+  "expire_in": 504576000,
+  "merkle_root": {
+    "ctime": 1512864815,
+    "hash": "e18b02b4665c6b69d6468bdf789bfdbdcae94cb9fad4cf64b661b792577ec0cf60d983e891b860ae906d2322cf630755054bbe7fc43a7f830a1d6456e32ea5e5",
+    "seqno": 1796833
+  },
+  "prev": "cdc8903ed71d7c72af333c203d0f44594de8b2cf1a295503de7b87d1a2f01034",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyazlYq9VpCdU3ROmAzJfEoYbZ2hUhZ7UZqhq8Ax3/okKp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNmRkYWIzMGVhYjhkNTllMWNlNmM0YzQxNmY5OTAyZmE4M2ZmMzA5YzdkMDUzZTM2NjMwODEyYTNmMGQwYzEzMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzlhY2U1NjJhZjU1YTQyNzU0ZGQxM2E2MDMzMjVmMTI4NjFiNjc2ODU0ODU5ZWQ0NjZhODZhZjAwYzc3ZmU4OTBhIiwidWlkIjoiNTM1MTQ3MmU0NjhlZGFjMDc5NzIwNzYwMjQ2OTljMTkiLCJ1c2VybmFtZSI6ImFhcm9ubWFjZG9uYWxkIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhYXJvbm1hY2RvbmFsZC5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIzIn0sImN0aW1lIjoxNTEyODY0ODI4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTI4NjQ4MTUsImhhc2giOiJlMThiMDJiNDY2NWM2YjY5ZDY0NjhiZGY3ODliZmRiZGNhZTk0Y2I5ZmFkNGNmNjRiNjYxYjc5MjU3N2VjMGNmNjBkOTgzZTg5MWI4NjBhZTkwNmQyMzIyY2Y2MzA3NTUwNTRiYmU3ZmM0M2E3ZjgzMGExZDY0NTZlMzJlYTVlNSIsInNlcW5vIjoxNzk2ODMzfSwicHJldiI6ImNkYzg5MDNlZDcxZDdjNzJhZjMzM2MyMDNkMGY0NDU5NGRlOGIyY2YxYTI5NTUwM2RlN2I4N2QxYTJmMDEwMzQiLCJzZXFubyI6MTQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAsFPZlUj00SPmU4NUWu8XhzYMisOCxE3qRUvXp+jj8D2BOtRfv0bfi+WGTosV7SBEXiK/v8TtT4m3+Hrgc1RyAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPu+NK0POPiRUpb+grEN4lW0vRK/qt+rnY244H3e2lkGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aaronmacdonald
+
+==================================================================
